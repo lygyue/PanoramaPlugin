@@ -81,7 +81,7 @@ but in this way, the cubemap render must be in a render target, not screen captu
 in my plugin, i can build panorama image in all kind of screen resolution, so you can capture screen to build the panorama, without lose any post process volume effects.
 
 any one who like this plugin, please contact me, not for free. in this folder, you can use the debug dll to do any test.
-my email address: lygyue@126.com
+my email address: lygyue@126.com. price: sdk($299), source code($2999).
 
 __Any one who want to compile the application, please config the platform to debug + x86 mode.__
 
