@@ -83,7 +83,7 @@ in my plugin, i can build panorama image in all kind of screen resolution, so yo
 any one who like this plugin, please contact me, not for free. in this folder, you can use the debug dll to do any test.
 my email address: lygyue@126.com
 
-~Any one who want to compile the application, please config the platform to debug + x86 mode.~
-~The best renderer is d3d11. d3d12 need win10, and cpu using 4 threads to do the sample, it's slower than d3d11.~
-~Some one may think the plugin run slowly, in fact ,it's very fast.the initialise may be a bit slow, it run once at the begining.~
-~I don't do enough tests, any issues please contact me, thankyou!~
+__Any one who want to compile the application, please config the platform to debug + x86 mode.__
+__The best renderer is d3d11. d3d12 need win10, and cpu using 4 threads to do the sample, it's slower than d3d11.__
+__Some one may think the plugin run slowly, in fact ,it's very fast.the initialise may be a bit slow, it run once at the begining.__
+__I don't do enough tests, any issues please contact me, thankyou!__
