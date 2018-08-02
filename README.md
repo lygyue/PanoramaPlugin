@@ -72,7 +72,7 @@ int main()
 }	
 
 */
-
+~~~
 In the most render engines, building a panorama image in the following step:
 1. build the camera cubemap image, which in six faces, each face is a quad, may be in the screen resolution of 1024 * 1024.
 2. sample the cube map image to panorama image.
