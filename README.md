@@ -80,6 +80,10 @@ but in this way, the cubemap render must be in a render target, not screen captu
 
 in my plugin, i can build panorama image in all kind of screen resolution, so you can capture screen to build the panorama, without lose any post process volume effects.
 
-any one who like this plugin, please contact me, not free. in this folder, you can use the debug dll to do any test.
+any one who like this plugin, please contact me, not for free. in this folder, you can use the debug dll to do any test.
 my email address: lygyue@126.com
 
+~Any one who want to compile the application, please config the platform to debug + x86 mode.~
+~The best renderer is d3d11. d3d12 need win10, and cpu using 4 threads to do the sample, it's slower than d3d11.~
+~Some one may think the plugin run slowly, in fact ,it's very fast.the initialise may be a bit slow, it run once at the begining.~
+~I don't do enough tests, any issues please contact me, thankyou!~
