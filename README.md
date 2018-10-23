@@ -78,7 +78,9 @@ In the most render engines, building a panorama image in the following step:
 2. sample the cube map image to panorama image.
 but in this way, the cubemap render must be in a render target, not screen capture. and in the most render engine like unreal 4, may be lost many post process volume effects.
 
-in my plugin, i can build panorama image in all kind of screen resolution, so you can capture screen to build the panorama, without lose any post process volume effects.
+My plugin's advantage:
+1. in my plugin, i can build panorama image in all kind of screen resolution, so you can capture screen to build the panorama, without lose any post process volume effects.
+2. can build large resolution panorama image like 8k, even though 16k and without any blurry.
 
 any one who like this plugin, please contact me, not for free. in this folder, you can use the debug dll to do any test.
 my email address: lygyue@126.com. price: sdk($299), source code($2999).
