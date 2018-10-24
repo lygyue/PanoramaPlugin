@@ -1,6 +1,6 @@
 PanoramaPlugin
 =====
-There is a panorama plugin, which can build panorama image using all kind of resolution of input images.
+There is a panorama plugin, which can build panorama image using all kind of resolution of input images.It likes Nvidia's "ansel", ansel impelement in driver and must open a dialog to config. My plugin using in a simple way.
 ------
 ~~~cpp
 #pragma once
